@@ -1,4 +1,4 @@
-# Machine-Learning-Works
+# Customer Churn Prediction/Machine-Learning
 Hello Data Science Enthusiasts,
 I hope you all are doing great.
 I am excited to share a machine learning project I have been working on recently, focusing on predicting customer churn.
